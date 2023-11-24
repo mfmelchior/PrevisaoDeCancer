@@ -10,4 +10,4 @@ Fonte dos dados: https://www.kaggle.com/datasets/ohinhaque/synthetic-cancer-pred
 
 ## Sobre as previsões em Python
 
-Utilizando a linguagem Python temos 5 arquivos, denominados fadiga, idade, tabagismo, alergia e gênero, onde cada arquivo verifica a relação de cada fator analisado com a incidência de câncer.
+No arquivo mulheres fumantes temos a visualização de dados e a relação de porcentagem entre mulheres fumantes e o câncer.
