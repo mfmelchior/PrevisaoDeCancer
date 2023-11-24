@@ -10,5 +10,5 @@ Fonte dos dados: https://www.kaggle.com/datasets/ohinhaque/synthetic-cancer-pred
 
 ## Sobre as previsões em Python
 
-No arquivo mulheres fumantes temos a visualização de dados e a relação de porcentagem entre mulheres fumantes e o câncer.
-O arquivo homens idosos trabalha a relação entre homens idosos (60+) e a incidência de câncer.
+No arquivo **mulheres fumantes** temos a visualização de dados e a relação de porcentagem entre mulheres fumantes e o câncer.
+O arquivo **homens idosos** trabalha a relação entre homens idosos (60+) e a incidência de câncer.
